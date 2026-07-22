@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: M.Sc. in Computer Science (Artificial Intelligence) · University of Guelph
 
 profile:
   align: right
