@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+- **May 2025.** Started working with **[Naryant](https://naryant.com/)** and **[Osteoporosis Canada](https://osteoporosis.ca/)** as a **Graduate Research Assistant**, contributing to AI research for osteoporosis and fracture risk prediction.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+**Oct 2024.** Excited to share that I will be joining the **[University of Guelph](https://www.uoguelph.ca/)** as an **M.Sc. student in Computer Science (Artificial Intelligence)**.
